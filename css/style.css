@@ -1,0 +1,23 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+/********   Global Classes  ********/
+a{
+    text-decoration: none;
+}
+/********X*****************X********/
+.nav{
+    background-color: #fff;
+    padding: 0 2rem;
+    height: 0;
+    min-height: 10vh;
+    overflow: hidden;
+}
+
+.nav .nav-brand a{
+   font-size: 1.6rem;
+   padding: 1rem 0;
+}
